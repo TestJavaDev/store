@@ -100,6 +100,7 @@
   },
   "defaultProject": "store",
   "cli": {
+    "analytics": "b601b9e5-8bde-4703-bfd8-fa85a8899279",
     "cache": {
       "enabled": true,
       "path": "./build/angular/",
